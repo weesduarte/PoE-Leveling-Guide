@@ -1,5 +1,9 @@
 # Leveling Guide - Patch Notes
 
+### The Ancestor League
+* Added 14 new support gems
+  * Updated new tag from old gems
+
 ### Crucible League
 * Continued to update gems from past leagues
 * Updated some builds and added community additions

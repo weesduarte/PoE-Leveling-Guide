@@ -84,6 +84,7 @@
     "color": "red",
     "gemTags": [
       "Fire",
+      "Physical",
       "Support"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/AddedFireDamage.png?scale=1&w=1&h=1"
@@ -220,6 +221,7 @@
     "color": "red",
     "gemTags": [
       "Attack",
+      "Strike",
       "Melee",
       "Support"
     ],
@@ -267,6 +269,7 @@
       "Attack",
       "Totem",
       "Melee",
+      "Strike",
       "Active"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AncestorTotem.png?scale=1&w=1&h=1"
@@ -2860,6 +2863,29 @@
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/ContagionGem.png?scale=1&w=1&h=1"
   },
   {
+    "level": 31,
+    "required_lvl": 31,
+    "name": "Controlled Blaze",
+    "Witch": "Siosa",
+    "Shadow": "Siosa",
+    "Ranger": "Siosa",
+    "Duelist": "Siosa",
+    "Marauder": "A Fixture of Fate",
+    "Templar": "Siosa",
+    "Scion": "Siosa",
+    "quest": "Siosa",
+    "vendor": "Siosa",
+    "cost": "Chance",
+    "color": "red",
+    "gemTags": [
+      "Fire",
+      "Melee",
+      "Attack",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/e/e1/Controlled_Blaze_Support_inventory_icon.png?scale=1&w=1&h=1"
+  },
+  {
     "level": 16,
     "required_lvl": 18,
     "name": "Controlled Destruction",
@@ -2926,6 +2952,30 @@
       "Active"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Convocation.png?scale=1&w=1&h=1"
+  },
+  {
+    "level": 31,
+    "required_lvl": 31,
+    "name": "Corrupting Cry",
+    "Witch": "Siosa",
+    "Shadow": "Siosa",
+    "Ranger": "Siosa",
+    "Duelist": "Siosa",
+    "Marauder": "A Fixture of Fate",
+    "Templar": "Siosa",
+    "Scion": "Siosa",
+    "quest": "Siosa",
+    "vendor": "Siosa",
+    "cost": "Chance",
+    "color": "red",
+    "gemTags": [
+      "Warcry",
+      "AoE",
+      "Duration",
+      "Physical",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/f/fe/Corrupting_Cry_Support_inventory_icon.png"
   },
   {
     "level": 16,
@@ -3019,6 +3069,7 @@
       "AoE",
       "Projectile",
       "Duration",
+      "Orb",
       "Active"
     ],
     "iconPath": "https://web.poecdn.com/image/Art/2DItems/Gems/CorpseEruption.png?scale=1"
@@ -3434,6 +3485,26 @@
       "Active"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/DetonateMines.png?scale=1&w=1&h=1"
+  },
+  {
+    "level": 8,
+    "required_lvl": 8,
+    "name": "Devour",
+    "Witch": "The Caged Brute Support",
+    "Shadow": "Nessa",
+    "Ranger": "Siosa",
+    "Duelist": "Siosa",
+    "Marauder": "Siosa",
+    "Templar": "Nessa",
+    "Scion": "Nessa",
+    "quest": "Tarkleigh",
+    "vendor": "Nessa",
+    "cost": "Chance",
+    "color": "blue",
+    "gemTags": [
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/9/9b/Devour_Support_inventory_icon.png"
   },
   {
     "level": 4,
@@ -4569,6 +4640,31 @@
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Flamewhip.png?scale=1&w=1&h=1"
   },
   {
+    "level": 8,
+    "required_lvl": 8,
+    "name": "Flamewood",
+    "Witch": "Siosa",
+    "Shadow": "Siosa",
+    "Ranger": "Siosa",
+    "Duelist": "Siosa",
+    "Marauder": "The Caged Brute Support",
+    "Templar": "Nessa",
+    "Scion": "Nessa",
+    "quest": "Tarkleigh",
+    "vendor": "Nessa",
+    "cost": "Chance",
+    "color": "red",
+    "gemTags": [
+      "Fire",
+      "Totem",
+      "Spell",
+      "AoE",
+      "Projectile",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/wiki/File:Flamewood_Support_inventory_icon.png#/media/File:Flamewood_Support_inventory_icon.png?scale=1&w=1&h=1"
+  },
+  {
     "level": 4,
     "required_lvl": 4,
     "name": "Flame Wall",
@@ -4896,6 +4992,51 @@
       "Active"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/IceStrike.png?scale=1&w=1&h=1"
+  },
+  {
+    "level": 18,
+    "required_lvl": 18,
+    "name": "Fresh Meat",
+    "Witch": "Sharp and Cruel",
+    "Shadow": "Siosa",
+    "Ranger": "Siosa",
+    "Duelist": "Siosa",
+    "Marauder": "Siosa",
+    "Templar": "Yeena",
+    "Scion": "Yeena",
+    "quest": "Silk",
+    "vendor": "Yeena",
+    "cost": "Alt",
+    "color": "blue",
+    "gemTags": [
+      "Critical",
+      "Minion",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/e/e0/Fresh_Meat_Support_inventory_icon.png"
+  },
+  {
+    "level": 38,
+    "required_lvl": 38,
+    "name": "Frigid Bond",
+    "Witch": "Petarus",
+    "Shadow": "Lilly",
+    "Ranger": "Lilly",
+    "Duelist": "Lilly",
+    "Marauder": "Lilly",
+    "Templar": "The Eternal Nightmare",
+    "Scion": "The Eternal Nightmare",
+    "quest": "Petarus",
+    "vendor": "Petarus",
+    "cost": "Alch",
+    "color": "blue",
+    "gemTags": [
+      "Cold",
+      "Link",
+      "Duration",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/5/59/Frigid_Bond_Support_inventory_icon.png"
   },
   {
     "level": 4,
@@ -5236,6 +5377,29 @@
       "Active"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Grace.png?scale=1&w=1&h=1"
+  },
+  {
+    "level": 31,
+    "required_lvl": 31,
+    "name": "Guardian's Blessing",
+    "Witch": "Clarissa",
+    "Shadow": "Siosa",
+    "Ranger": "Siosa",
+    "Duelist": "Siosa",
+    "Marauder": "Siosa",
+    "Templar": "A Fixture of Fate",
+    "Scion": "Clarissa",
+    "quest": "Siosa",
+    "vendor": "Siosa",
+    "cost": "Chance",
+    "color": "red",
+    "gemTags": [
+      "Aura",
+      "Blessing",
+      "Minion",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/f/f1/Guardian%27s_Blessing_Support_inventory_icon.png"
   },
   {
     "level": 38,
@@ -6758,6 +6922,30 @@
   {
     "level": 8,
     "required_lvl": 8,
+    "name": "Locus Mine",
+    "Witch": "Nessa",
+    "Shadow": "Nessa",
+    "Ranger": "Nessa",
+    "Duelist": "Siosa",
+    "Marauder": "Siosa",
+    "Templar": "Siosa",
+    "Scion": "Nessa",
+    "quest": "Nessa",
+    "vendor": "Nessa",
+    "cost": "Trans",
+    "color": "green",
+    "gemTags": [
+      "Bow",
+      "Attack",
+      "Projectile",
+      "Mine",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/7/7a/Locus_Mine_Support_inventory_icon.png"
+  },
+  {
+    "level": 8,
+    "required_lvl": 8,
     "name": "Maim",
     "Witch": "Siosa",
     "Shadow": "Siosa",
@@ -7245,26 +7433,6 @@
       "Attack"
     ],
     "iconPath": "https://web.poecdn.com/public/news/2019-09-04/NightbladeSupport.png"
-  },
-  {
-    "level": 2,
-    "required_lvl": 1,
-    "name": "Onslaught",
-    "Witch": "",
-    "Shadow": "",
-    "Ranger": "",
-    "Duelist": "",
-    "Marauder": "",
-    "Templar": "",
-    "Scion": "",
-    "quest": "",
-    "vendor": "",
-    "cost": "Removed",
-    "color": "green",
-    "gemTags": [
-      "Support"
-    ],
-    "iconPath": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/Onslaught.png?scale=1"
   },
   {
     "level": 4,
@@ -8230,6 +8398,27 @@
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/RejuvinationTotem.png?scale=1&w=1&h=1"
   },
   {
+    "level": 38,
+    "required_lvl": 38,
+    "name": "Returning Projectiles",
+    "Witch": "Petarus",
+    "Shadow": "The Eternal Nightmare",
+    "Ranger": "The Eternal Nightmare",
+    "Duelist": "Petarus",
+    "Marauder": "Petarus",
+    "Templar": "Petarus",
+    "Scion": "The Eternal Nightmare",
+    "quest": "Petarus",
+    "vendor": "Petarus",
+    "cost": "Alch",
+    "color": "green",
+    "gemTags": [
+      "Support",
+      "Projectile"
+    ],
+    "iconPath": "https://www.poewiki.net/images/7/74/Returning_Projectiles_Support_inventory_icon.png"
+  },
+  {
     "level": 16,
     "required_lvl": 16,
     "name": "Righteous Fire",
@@ -8321,6 +8510,48 @@
       "Support"
     ],
     "iconPath": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/Ruthless.png?scale=1"
+  },
+  {
+    "level": 31,
+    "required_lvl": 31,
+    "name": "Sacrifice",
+    "Witch": "Clarissa",
+    "Shadow": "Clarissa",
+    "Ranger": "Siosa",
+    "Duelist": "Siosa",
+    "Marauder": "Siosa",
+    "Templar": "Clarissa",
+    "Scion": "Clarissa",
+    "quest": "Siosa",
+    "vendor": "Siosa",
+    "cost": "Chance",
+    "color": "blue",
+    "gemTags": [
+      "Support",
+      "Chaos",
+      "Spell"
+    ],
+    "iconPath": "https://www.poewiki.net/images/b/bc/Sacrifice_Support_inventory_icon.png"
+  },
+  {
+    "level": 18,
+    "required_lvl": 18,
+    "name": "Sadism",
+    "Witch": "Yeena",
+    "Shadow": "Yeena",
+    "Ranger": "Yeena",
+    "Duelist": "Sharp and Cruel",
+    "Marauder": "Yeena",
+    "Templar": "Yeena",
+    "Scion": "Sharp and Cruel",
+    "quest": "Silk",
+    "vendor": "Yeena",
+    "cost": "Alt",
+    "color": "green",
+    "gemTags": [
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/3/33/Sadism_Support_inventory_icon.png"
   },
   {
     "level": 12,
@@ -9029,6 +9260,27 @@
       "Support"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/Totem.png?scale=1&w=1&h=1"
+  },
+  {
+    "level": 38,
+    "required_lvl": 38,
+    "name": "Spellblade",
+    "Witch": "Petarus",
+    "Shadow": "Petarus",
+    "Ranger": "Lilly",
+    "Duelist": "Lilly",
+    "Marauder": "Lilly",
+    "Templar": "The Eternal Nightmare",
+    "Scion": "Petarus",
+    "quest": "Petarus",
+    "vendor": "Petarus",
+    "cost": "Alch",
+    "color": "blue",
+    "gemTags": [
+      "Support",
+      "Spell"
+    ],
+    "iconPath": "https://www.poewiki.net/images/a/a2/Spellblade_Support_inventory_icon.png"
   },
   {
     "level": 24,
@@ -9970,6 +10222,31 @@
       "Support"
     ],
     "iconPath": "https://web.poecdn.com/protected/image/echoes/items/TrinitySupport.png?key=olxW4UsnblEXVX97PS6_MA"
+  },
+  {
+    "level": 38,
+    "required_lvl": 38,
+    "name": "Trauma",
+    "Witch": "Lilly",
+    "Shadow": "Lilly",
+    "Ranger": "Lilly",
+    "Duelist": "The Eternal Nightmare",
+    "Marauder": "The Eternal Nightmare",
+    "Templar": "Petarus",
+    "Scion": "Petarus",
+    "quest": "Petarus",
+    "vendor": "Petarus",
+    "cost": "Alch",
+    "color": "red",
+    "gemTags": [
+      "Physical",
+      "Support",
+      "Melee",
+      "Attack",
+      "Strike",
+      "Duration"
+    ],
+    "iconPath": "https://www.poewiki.net/images/1/11/Trauma_Support_inventory_icon.png"
   },
   {
     "level": 8,
@@ -11657,6 +11934,27 @@
       "Active"
     ],
     "iconPath": "https://web.poecdn.com/image/Art/2DItems/Gems/VolatileDead.png?scale=1"
+  },
+  {
+    "level": 18,
+    "required_lvl": 18,
+    "name": "Volatility",
+    "Witch": "Siosa",
+    "Shadow": "Siosa",
+    "Ranger": "Siosa",
+    "Duelist": "Yeena",
+    "Marauder": "Sharp and Cruel",
+    "Templar": "Yeena",
+    "Scion": "Yeena",
+    "quest": "Silk",
+    "vendor": "Yeena",
+    "cost": "Alt",
+    "color": "red",
+    "gemTags": [
+      "Attack",
+      "Support"
+    ],
+    "iconPath": "https://www.poewiki.net/images/b/b4/Volatility_Support_inventory_icon.png"
   },
   {
     "level": 12,
