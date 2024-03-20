@@ -1,0 +1,75 @@
+﻿zone:City of Sarn
+Não se esqueça de falar com Clarissa
+
+zone:The Slums
+Encontre as grades para os esgotos, então desça as escadas próximas, siga até as escadas para cima, então siga em linha reta até The Crematorium
+
+zone:The Crematorium
+Ir para a esquerda geralmente tem uma alta chance de sucesso
+G,DESAFIO - Armadilhas de forno
+G,ARTESANATO - Defesas
+
+zone:The Sewers
+Pegue o busto antes do Waypoint, depois dele há outro, para cima e para a direita está o último busto, então saia
+B,Não esqueça do Waypoint
+G,ARTESANATO - Dano físico
+
+zone:The Marketplace
+Normalmente para cima e para a direita, passe pela sala das estátuas, pegue o Waypoint perto de The Catacombs
+Pule o item da missão
+Quando você retornar após o desafio, siga a parede da mão direita para encontrar a saída
+
+zone:The Catacombs
+G,DESAFIO - Sentinelas de lâmina
+G,ARTESANATO - Dano elemental com ataque
+
+zone:The Battlefront
+Vá para cima e para a esquerda para o Carretel e o Sulfeto Táumetico antes de ir para o Solaris Temple
+Quando você retornar, vá para a direita para o Solaris Temple
+
+zone:The Docks
+Normalmente do lado esquerdo, o Sulfeto está abaixo de algumas escadas
+Esta é uma ótima zona para farmar EXP
+
+zone:Solaris Temple Level 1
+Siga o tapete até a saída
+
+zone:Solaris Temple Level 2
+Siga o tapete, mas pode ter becos sem saída
+G,ARTESANATO - Dano de fogo
+
+zone:Ebony Barracks
+Primeiro vá para o Lunaris Temple
+B,Não esqueça do Waypoint
+Quando você retornar, vá para a direita para o Imperial Gardens
+
+zone:Lunaris Temple Level 1
+Siga o tapete
+
+zone:Lunaris Temple Level 2
+O layout difere muito, se você ver escadas, suba por elas e encontre mais escadas, até uma área maior, haverá carrinhos em ambos os lados, escolha o lado onde houver apenas um
+G,ARTESANATO - Dano de raio
+Y,RECOMENDA resistência ao raio
+
+zone:Imperial Gardens
+Siga a estrada até o final
+A biblioteca ao norte tem uma loja de GEM
+G,DESAFIO - Armadilhas de dardo
+G,ARTESANATO - Todos os atributos
+
+zone:The Library
+Siosa lhe dará uma missão aqui para todas as GEM atuais
+Ele está no meio da zona, perto do Waypoint
+
+zone:The Archives
+As páginas douradas estão espalhadas aleatoriamente por toda a zona
+< Faça logout depois de ter todas as 4
+> Teleporte de volta para The Library com moeda em seu inventário
+
+zone:Sceptre of God
+As saídas aparecem em um canto aleatório, muitas vezes podem ser encontradas viajando diagonalmente
+
+zone:Upper Sceptre of God
+As saídas aparecem em um canto aleatório, vá diagonalmente para cima até avistar barricadas na saída
+B,RECOMENDA resistência ao frio
+Y,e resistência ao raio

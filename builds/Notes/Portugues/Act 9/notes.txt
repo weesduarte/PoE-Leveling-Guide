@@ -1,0 +1,46 @@
+﻿zone:Blood Aqueduct
+Vá para o canto superior esquerdo, atravesse as pontes nos becos sem saída
+Farme cartas de Humility para a Tabula como início de liga
+Esta zona é ótima para EXP
+
+zone:The Descent
+Siga para cima e para a direita até o guindaste de suprimentos, depois para baixo e para a esquerda até outro guindaste, então para cima e para a direita até The Vastiri Desert
+
+zone:Vastiri Desert
+Vá para a direita até o Waypoint, depois para o canto superior esquerdo (1) para o Foothills. Se você quiser matar Shakari, vá para a direita até (2) para o Oasis, então pegue o item da missão na cidade e entre na zona
+G,ARTESANATO - Velocidade de ataque/cast
+
+zone:The Oasis
+Siga a parede esquerda ou direita, com base em qual lado é o beco sem saída na entrada
+R,RECOMENDA mitigação física
+
+zone:The Foothills
+B,Não se esqueça de tocar no Waypoint
+Então vá para a direita até (1) para pegar o item da missão em The Boiling Lake, depois para cima até (2) para The Tunnel para continuar a história
+
+zone:Boiling Lake
+Vá para o canto superior direito da zona. Se você avistar homens petrificados, está perto
+B,Após matar o Basilisco, faça logout e teleporte para o Waypoint em The Foothills e vá para o canto superior esquerdo da zona
+G,ARTESANATO - Dano de feitiço
+
+zone:The Tunnel
+Siga para cima e para a esquerda, o caminho da direita passa pelo Waypoint
+G,DESAFIO - Lâminas de serra
+G,ARTESANATO - Todos os atributos
+
+zone:The Quarry
+Ative o Waypoint no centro, faça Shrine of the Winds (2), depois The Refinery (1)
+G,ARTESANATO - Dano físico
+R,RECOMENDA mitigação física
+3.000+ EHP e habilidades de movimento
+
+zone:The Refinery
+Siga os trilhos do carrinho até o prédio no canto superior esquerdo para o Chefe. Faça logout para a cidade e use o Waypoint para The Quarry
+Y,RECOMENDA resistência ao raio
+
+zone:Belly of the Beast
+Vá para o canto superior esquerdo nesta zona e na próxima
+
+zone:Rotting Core
+Mate Doedre, Maligaro e Shavronne novamente. Depois entre no Black Heart e mate a Depraved Trinity
+Y,RECOMENDA 3.200+ EHP, mitigação física, resistência ao raio, habilidade de movimento rápida

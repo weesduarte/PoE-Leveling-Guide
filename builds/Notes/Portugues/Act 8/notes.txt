@@ -1,0 +1,63 @@
+﻿zone:Sarn Ramparts
+Siga a parede esquerda até as escadas, suba as escadas e siga a parede até o final
+
+zone:Toxic Conduits
+Observe a tinta preta no chão ao entrar na zona para ver em que direção ela aponta
+
+zone:Doedre's Cesspool
+Encontre o caminho que não tem beco sem saída, isso o levará até a saída. Depois de derrotar Doedre, The Grand Promenade está à esquerda, The Quay à direita
+G,ARTESANATO - Resistência
+
+zone:Grand Promenade
+Siga a parede direita
+
+zone:Bath House
+A saída (1) está sempre do lado direito. Salve Yugul (2) para depois
+G,DESAFIO - Armadilhas de fornalha
+G,ARTESANATO - Duração de flask
+
+zone:High Gardens
+Tenha cuidado ao matar Porcos-espinhos
+Siga o caminho até o final para matar Yugul
+B,RECOMENDA resistência ao frio
+
+zone:Lunaris Concourse
+Suba e vá para a direita até o Waypoint, depois suba e vá para a esquerda para a entrada do Templo Lunaris primeiro
+Desça e vá para a direita até a Harbour Bridge depois de derrotar ambos os templos
+
+zone:Lunaris Temple Level 1
+Siga os tapetes até o final e ative o Waypoint
+
+zone:Lunaris Temple Level 2
+Procure por escadas e suba nelas, quando chegar à área maior, procure por vasos na parede oposta e escolha o lado onde há apenas um
+B,Deslogue após o chefe e Waypoint para Doedre's Cesspool
+G,ARTESANATO - Lacaios
+B,RECOMENDA resistência ao frio
+
+zone:The Quay
+Pegue o item da missão em (1) para usar na arena (2) e então saia da arena e encontre a saída em (3)
+Siga a borda inferior do mapa e você deverá encontrar tudo
+
+zone:Grain Gate
+Esta zona tem muitos prédios, entre e saia apenas pelos aberturas que têm o cadáver de um guarda ao lado; eles indicam o caminho
+B,Mate os gemlings
+
+zone:Imperial Fields
+Siga a estrada até o final e continue indo nessa direção
+
+zone:Solaris Concourse
+Siga os tapetes até a Harbour Bridge
+
+zone:Solaris Temple Level 1
+Desça e vá para a esquerda, depois suba e vá para a esquerda. O Waypoint está sempre no caminho
+
+zone:Solaris Temple Level 2
+Siga os tapetes. Deslogue após o chefe. Waypoint para Lunaris Concourse
+G,ARTESANATO - Armadilhas e minas
+R,RECOMENDA resistência ao fogo
+
+zone:Harbour Bridge
+Farme aqui antes do chefe se você estiver abaixo do nível recomendado
+Vá para cima e para o meio até a arena com Solaris e Lunaris
+R,RECOMENDA resistência ao fogo
+B,e resistência ao frio

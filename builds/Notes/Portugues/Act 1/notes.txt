@@ -1,0 +1,53 @@
+﻿zone:Twilight Strand
+Siga a costa para cima e para a direita
+
+zone:The Coast
+Fique no lado direito seguindo a parede
+B,Vá para Mud Flats primeiro
+
+zone:Tidal Island
+O lado sem penhasco é o mais curto
+
+zone:Mud Flats
+Pequenos rios conectam os três itens
+B, No nível 4, vá para Tidal Island para a missão Quicksilver Flask após Submerged Waypoint
+
+zone:Fetid Pool
+Ande em círculo e mate tudo
+Esta missão é opcional e deve ser ignorada para economizar tempo
+
+zone:Submerged Passage
+Encontre a ponte e coloque um portal
+Então continue através da ponte para The Ledge
+
+zone:Flooded Depths
+Logout após matar o Deep Dweller (Tarkleigh)
+
+zone:The Ledge
+Pequenos totens no Waypoint apontam para a saída
+
+zone:The Climb
+Sempre suba, pule Faun para economizar tempo
+
+zone:Lower Prison
+Vá para a cidade no Waypoint e pegue o portal que você deixou para encontrar os Flooded Depths
+Tente à direita primeiro para a saída. Há um desafio nesta zona que você pode fazer mais tarde graças ao Waypoint
+G,DESAFIO - Armadilhas de espinhos
+
+zone:Upper Prison
+Tente à esquerda primeiro.
+B,Logout após matar Brutus, então Waypoint para Prisoner's Gate
+
+zone:Prisoner's Gate
+Procure pelo lado da estrada que tem a beirada para baixo, geralmente no lado direito
+
+zone:Ship Graveyard
+Procure primeiro o Waypoint e depois vá para a saída. Se encontrar The Cave, pegue a All Flame agora. Caso contrário, continue diretamente para Cavern of Wrath Waypoint
+Quando você voltar, Fairgraves estará sempre perto do waypoint, simplesmente faça logout após matá-lo para ir para a cidade e pegar um passivo de Bestel
+
+zone:Cavern of Wrath
+No Waypoint, volte para The Ship Graveyard para encontrar a Cave e entregar Allflame. Em seguida, faça logout para obter um Passivo de Bestel
+
+zone:Cavern of Anger
+Frequentemente no canto inferior direito. Você pode seguir os espíritos. Se você ver pilhas de ouro, está perto de Merveil
+B,RECOMENDAÇÃO alta resistência ao frio

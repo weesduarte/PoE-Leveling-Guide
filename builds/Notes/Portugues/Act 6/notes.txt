@@ -1,0 +1,63 @@
+﻿zone:Twilight Strand
+Esta área e fazer a missão são opcionais, isso abre a loja de GEM da Lilly
+
+zone:The Coast
+Vá para o lado direito da zona e vá para o canto superior direito
+
+zone:Tidal Island
+Esta zona deve ser ignorada para economizar tempo
+
+zone:Mud Flats
+Mate a Rainha Desonrada (1) no lado direito para obter a chave para abrir o portão para a próxima zona (2) no lado esquerdo
+
+zone:Karui Fortress
+Siga pelo lado direito se estiver pronto para Tukohama para o ponto de habilidade passiva e panteão. Se desejar pular Tukohama, siga pelo lado esquerdo
+G,ARTESANATO - Defesas
+R,RECOMENDA resistência ao fogo
+com 1.500+ de EHP
+
+zone:The Ridge
+Siga o caminho até poder ir para a direita, depois siga até ter um caminho para cima à esquerda
+
+zone:Lower Prison
+Você geralmente quer ir para baixo ou para a esquerda em direção à saída, há um desafio aqui, mas ele está perto do Waypoint se você quiser fazer mais tarde
+G,DESAFIO - Armadilhas de espinhos
+G,ARTESANATO - Dupla resistência
+
+zone:Shavronne's Tower
+Siga pelos corredores, passando por pontes, por 4 minizonas
+G,ARTESANATO - Dano de feitiço
+Y,RECOMENDA resistência ao raio
+com mitigação física
+
+zone:Prisoner's Gate
+Se você quiser lutar contra o Aberrath, desça pelo lado da estrada que tem o penhasco, caso contrário, siga a estrada para a próxima área
+R,RECOMENDA resistência ao fogo
+
+zone:The Riverways
+Siga a estrada e quando chegar ao acampamento, desça e vá para a direita
+B,Se quiser matar Ryslatha, siga o caminho para cima no Waypoint
+
+zone:The Wetlands
+Siga pelo lado esquerdo para encontrar a entrada para o Spawning Ground
+G,RECOMENDA frascos de vida atuais, evite degenerações de caos
+
+zone:Western Forest
+Siga a estrada até The Riverways
+G,ARTESANATO - Atributos
+
+zone:Southern Forest
+Siga pela parede da direita até The Cavern of Anger
+
+zone:Cavern of Anger
+B,Não se esqueça da bandeira preta ao entrar nesta zona
+Desça e depois suba, depois vá para a direita, a saída pode estar para cima ou para baixo
+
+zone:The Beacon
+Siga a linha da costa até chegar aos faróis
+G,ARTESANATO - Vida/Mana
+
+zone:Brine King's Reef
+Siga pela linha da costa esquerda até a arena do Brine King
+Y,RECOMENDA resistência ao raio
+B,e resistência ao frio com mitigação física

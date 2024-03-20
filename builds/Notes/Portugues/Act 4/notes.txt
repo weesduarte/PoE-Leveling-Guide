@@ -1,0 +1,51 @@
+﻿zone:The Aqueduct
+Siga a correnteza e atravesse as pontes sempre que o caminho terminar
+
+zone:Dried Lake
+Mate Voll em um dos três pontos de aparecimento
+G,ARTESANATO - Velocidade de Ataque/Lançamento
+
+zone:Mines Level 1
+A saída geralmente está no canto superior esquerdo
+
+zone:Mines Level 2
+Layout variado e muitos becos sem saída, você deve procurar o espírito e deixar um portal se encontrar a saída para voltar depois e encontrá-la
+
+zone:Crystal Veins
+Contorne pelo canto inferior direito para ir para a saída no canto superior esquerdo
+B,Waypoint para Highgate se você precisar do espírito
+G,ARTESANATO - Dano Frio
+
+zone:Daresso's Dream
+Mova-se em direção ao canto superior direito, alguns becos sem saída
+
+zone:Kaom's Dream
+Siga as passagens e pontes
+
+zone:Grand Arena
+Se você ainda não fez o Sonho de Kaom, pegue o Waypoint para Crystal Veins e faça isso primeiro
+Mova-se para baixo e para a esquerda a partir do Waypoint, depois siga o caminho
+G,RECOMENDA resistência ao frio
+
+zone:Kaom's Stronghold
+Se você ainda não fez o Sonho de Daresso, pegue o Waypoint para Crystal Veins e faça isso primeiro
+Siga as escadas e pontes
+R,RECOMENDA resistência ao fogo
+
+zone:Belly of the Beast Level 1
+Aim for top left, many dead ends
+
+zone:Belly of the Beast Level 2
+Aim for top left, many dead ends
+G,CRAFT - Resistência
+
+zone:The Harvest
+Sempre um chefe do lado direito, dois do lado esquerdo
+G,Fique na aura verde contra Doedre
+Maligaro causa dano físico, então continue se movendo
+B,Shavronne causa dano de raio
+R,Malachi causa dano de fogo
+
+zone:The Ascent
+Siga para cima e para a direita, atravesse a ponte e siga a estrada para uma pequena passagem até a saída
+G,ARTESANATO - Mitigação de Ailment, Atordoamento e Maldição

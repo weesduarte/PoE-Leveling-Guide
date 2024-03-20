@@ -1,0 +1,13 @@
+﻿zone:O Laboratório do Templário
+No canto superior direito está o Laboratório
+Encontre o dispositivo do mapa e espere para falar com Kirac
+Depois volte para Oriath e vá para o canto inferior direito para os Fallen Courts
+
+zone:Os Fallen Courts
+Siga a parede esquerda para encontrar o escritório de Dominus
+Pegue a chave e retorne para Oriath para a entrada do Haunted Reliquary no canto inferior esquerdo
+
+zone:O Haunted Reliquary
+Use a chave em ambos os lados da porta para abrir o Vault
+Mate tudo e então fale com Kirac no seu Esconderijo
+Se você não tem um Esconderijo, fale com Helena na cidade para obter um
