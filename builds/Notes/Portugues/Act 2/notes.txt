@@ -13,10 +13,9 @@ Siga a estrada até o waypoint
 Volte para a cidade e portal para The Den para Quicksilver Flask
 Depois continue para o norte para a Chamber of Sins
 Quando você retornar, vá para o leste para matar Kraityn
-Finalmente vá para o sul através das Fellshrine Ruins até o desafio em The Crypt
 
 zone:Chamber of Sins Level 1
-Circule até o centro da zona. O corredor ao lado do Waypoint sempre leva para a próxima zona
+Circule até o centro da zona.
 
 zone:Chamber of Sins Level 2
 O chefe está abaixo e à direita, o desafio está no canto superior esquerdo
@@ -32,21 +31,17 @@ zone:The Crypt
 G,DESAFIO - Lâminas giratórias
 
 zone:The Riverways
-Siga a estrada e use habilidades de mobilidade para pular sobre as pontes, ative o Waypoint e depois continue na estrada até Western Forest
-Quando você retornar, a entrada para Wetlands está sempre do outro lado da estrada perto do Waypoint
+A entrada para Wetlands está sempre do outro lado da estrada perto do Waypoint
 
 zone:Western Forest
-Alira está do lado do Waypoint onde a estrada tem uma seção quebrada. As Weaver's Chambers podem ser encontradas do lado oposto da estrada de Alira, com árvores emaranhadas. Siga a estrada para a missão The Way Forward
 
 zone:Weaver's Chambers
 Vá para a esquerda quando o caminho da esquerda aparecer, caso contrário, contorne pelo lado direito
-Mate Weaver para a recompensa e faça logout, depois reivindique o ponto de habilidade The Way Forward de volta em Act 1
 
 zone:The Wetlands
 Mate Oak no centro e depois vá para o lado esquerdo até que o Waypoint seja visível com a passagem perto dele
 
 zone:Vaal Ruins
-Tente determinar a direção principal e zig e zag conforme necessário pelas ruínas
 
 zone:Northern Forest
 Vá para o canto superior direito seguindo a linha da costa

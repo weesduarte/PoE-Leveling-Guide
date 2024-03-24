@@ -626,6 +626,28 @@
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/AssassinsMark.png?scale=1&w=1&h=1"
   },
   {
+    "level": 24,
+    "required_lvl": 24,
+    "name": "Automation",
+    "Witch": "Clarissa",
+    "Shadow": "Clarissa",
+    "Ranger": "Clarissa",
+    "Duelist": "Clarissa",
+    "Marauder": "Clarissa",
+    "Templar": "Clarissa",
+    "Scion": "Clarissa",
+    "quest": "Lost in Love",
+    "vendor": "Clarissa",
+    "cost": "Chance",
+    "color": "blue",
+    "gemTags": [
+      "Trigger",
+      "Spell",
+      "Support"
+    ],
+    "iconPath": ""
+  },
+  {
     "level": 72,
     "required_lvl": 72,
     "name": "Awakened Added Chaos Damage",
@@ -2222,6 +2244,29 @@
       "Support"
     ],
     "iconPath": "http://webcdn.pathofexile.com/image/Art/2DItems/Gems/Support/IncreasedBurnDuration.png?scale=1&w=1&h=1"
+  },
+  {
+    "level": 24,
+    "required_lvl": 24,
+    "name": "Call to Arms",
+    "Witch": "Siosa",
+    "Shadow": "Siosa",
+    "Ranger": "Siosa",
+    "Duelist": "Clarissa",
+    "Marauder": "Clarissa",
+    "Templar": "Clarissa",
+    "Scion": "Clarissa",
+    "quest": "Lost in Love",
+    "vendor": "Clarissa",
+    "cost": "Chance",
+    "color": "red",
+    "gemTags": [
+      "Warcry",
+      "Trigger",
+      "Spell",
+      "Support"
+    ],
+    "iconPath": ""
   },
   {
     "level": 38,
@@ -8510,6 +8555,27 @@
       "Support"
     ],
     "iconPath": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/Ruthless.png?scale=1"
+  },
+  {
+    "level": 18,
+    "required_lvl": 18,
+    "name": "Sacred Wisp",
+    "Witch": "Sharp and Cruel",
+    "Shadow": "Yeena",
+    "Ranger": "Yeena",
+    "Duelist": "Siosa",
+    "Marauder": "Siosa",
+    "Templar": "Yeena",
+    "Scion": "Yeena",
+    "quest": "Lost in Love",
+    "vendor": "Clarissa",
+    "cost": "Trans",
+    "color": "blue",
+    "gemTags": [
+      "Spell",
+      "Support"
+    ],
+    "iconPath": ""
   },
   {
     "level": 31,
